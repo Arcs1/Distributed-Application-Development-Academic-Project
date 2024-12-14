@@ -1,0 +1,22 @@
+{
+  "name": "projetodad-websockets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arcs1/ProjetoDAD-Websockets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arcs1/ProjetoDAD-Websockets/issues"
+  },
+  "homepage": "https://github.com/Arcs1/ProjetoDAD-Websockets#readme",
+  "dependencies": {
+    "socket.io": "^4.5.4"
+  }
+}
